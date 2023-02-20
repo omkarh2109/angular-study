@@ -1,0 +1,21 @@
+What are Angular Directives?
+The Angular Directives are the elements which are basically used to change the behavior or appearance or layout of the DOM (Document Object Model) element. In other words, we can say that the directives are basically used to extend the power of HTML attributes and to change the appearance or behavior of a DOM element.
+
+Types of directives
+Structural Directive
+Attribute Directive
+Component Directives
+
+Structural Directive
+The Structural Directives are responsible for the HTML layout. That means, they will shape or reshape the HTML view by simply adding or removing the elements from the DOM.
+
+In Angular, there are three structural directives available. They are as follows:
+NgFor (*ngFor)
+NgIf (*ngIf)
+NgSwitch (*ngSwitch)
+
+
+Attribute Directives:
+Attribute Directives are basically used to modify the behavior or appearance of the DOM element or the Component. In Angular, there are two in-built attribute directives available. They are as follows:
+NgStyle: This NgStyle Attribute Directive is basically used to modify the element appearance or behavior.
+NgClass: This NgClass Attribute Directive is basically used to change the class attribute of the element in the DOM or in the Component to which it has been attached.
